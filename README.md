@@ -68,12 +68,3 @@ you need to try to implement in your code:
 - File Uploads and Storage Folder Basics
 - Table Pagination
 
-## **Example Solutions**
-
----
-
-If you need help, or you want to compare your version with our simple version, here are the public repositories with the solution:
-
-[https://github.com/DiazFarindra/laravel-beginner-demo-project](https://github.com/DiazFarindra/laravel-beginner-demo-project)
-
-**Notice**: please look at those repositories only AFTER you've accomplished the task yourself, or if you're confident about your Laravel beginner skills and you think you don't need to practice this task.
